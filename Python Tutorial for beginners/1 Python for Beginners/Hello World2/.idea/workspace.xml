@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75de5c7-9312-44c5-bdb2-c94f10f0493d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -25,16 +31,23 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1PHIKiAiy6bIF5vA82Ludh5yHP5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Tkinter_Tutorial/Tkinter_codemy_tutorial" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -44,18 +57,6 @@
       <recent name="C:\Users\irsha\PycharmProjects\Hello World2" />
       <recent name="C:\Users\irsha\PycharmProjects\Hello World2\14 Modules\1 Modules" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.5 Reusable Functions">
     <configuration name="1 Comments" type="PythonConfigurationType" factoryName="Python">
@@ -1346,77 +1347,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Converters.coverage" NAME="2 Converters Coverage Results" MODIFIED="1566816044200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14 Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Constructors.coverage" NAME="2 Constructors Coverage Results" MODIFIED="1566814335201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13 Classes" />
-    <SUITE FILE_PATH="coverage/Hello_World2$5_Reusable_Functions.coverage" NAME="5 Reusable Functions Coverage Results" MODIFIED="1568280588385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 Functions" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Exercise.coverage" NAME="2 Exercise Coverage Results" MODIFIED="1566110314052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 Lists" />
-    <SUITE FILE_PATH="coverage/Hello_World2$converters__1_.coverage" NAME="converters (1) Coverage Results" MODIFIED="1566819130286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using_Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$7_ExampleWeight.coverage" NAME="7 ExampleWeight Coverage Results" MODIFIED="1566817322858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Beginnig" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Modules.coverage" NAME="1 Modules Coverage Results" MODIFIED="1566816039068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14 Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$3_EmojiConverter.coverage" NAME="3 EmojiConverter Coverage Results" MODIFIED="1566289756365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9 Dictionary" />
-    <SUITE FILE_PATH="coverage/Hello_World2$6_WeightConverterPRO.coverage" NAME="6 WeightConverterPRO Coverage Results" MODIFIED="1566027643811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/If Else(Logical+Comparision)Operators" />
-    <SUITE FILE_PATH="coverage/Hello_World2$3_Exercise.coverage" NAME="3 Exercise Coverage Results" MODIFIED="1566817384986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13 Classes" />
-    <SUITE FILE_PATH="coverage/Hello_World2$4_ReturnStatement.coverage" NAME="4 ReturnStatement Coverage Results" MODIFIED="1566292745145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 Functions" />
-    <SUITE FILE_PATH="coverage/Hello_World2$6_CarGameEngine.coverage" NAME="6 CarGameEngine Coverage Results" MODIFIED="1566054369612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$4_List_Methods.coverage" NAME="4 List Methods Coverage Results" MODIFIED="1566290824320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 Lists" />
-    <SUITE FILE_PATH="coverage/Hello_World2$StringMethods.coverage" NAME="StringMethods Coverage Results" MODIFIED="1566111662068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$converters.coverage" NAME="converters Coverage Results" MODIFIED="1566816626557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14 Modules/1 Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1566820659273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using_Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$5_ExampleComparisionOperators.coverage" NAME="5 ExampleComparisionOperators Coverage Results" MODIFIED="1566025111734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/If Else(Logical+Comparision)Operators" />
-    <SUITE FILE_PATH="coverage/Hello_World2$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1565684371126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Unpacking.coverage" NAME="1 Unpacking Coverage Results" MODIFIED="1566290779285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8 Unpacking" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ExampleColour.coverage" NAME="ExampleColour Coverage Results" MODIFIED="1565685109276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Nested_Loops.coverage" NAME="1 Nested Loops Coverage Results" MODIFIED="1566056153902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 Loops/3 Nested Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ComparisionOperators.coverage" NAME="ComparisionOperators Coverage Results" MODIFIED="1566023776227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Price_Calculator.coverage" NAME="2 Price Calculator Coverage Results" MODIFIED="1566056147828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 Loops/2 For Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$grewgwgswg.coverage" NAME="grewgwgswg Coverage Results" MODIFIED="1566819868793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using_Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ExampleWeight.coverage" NAME="ExampleWeight Coverage Results" MODIFIED="1566815823447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$MathFunctions.coverage" NAME="MathFunctions Coverage Results" MODIFIED="1565693476559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Arithmetic Operations" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Tuples.coverage" NAME="1 Tuples Coverage Results" MODIFIED="1566142183207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 Tuples" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Packages.coverage" NAME="1 Packages Coverage Results" MODIFIED="1566884956692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15 Packages" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Files_Directories.coverage" NAME="1 Files&amp;Directories Coverage Results" MODIFIED="1566894815823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17 Files&amp;Directories" />
-    <SUITE FILE_PATH="coverage/Hello_World2$app.coverage" NAME="app Coverage Results" MODIFIED="1565525326658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Exercise__1_.coverage" NAME="2 Exercise (1) Coverage Results" MODIFIED="1566883102750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9 Dictionary" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ExampleHospital.coverage" NAME="ExampleHospital Coverage Results" MODIFIED="1565685186706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Lists.coverage" NAME="1 Lists Coverage Results" MODIFIED="1566110308149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 Lists" />
-    <SUITE FILE_PATH="coverage/Hello_World2$TypeConversion.coverage" NAME="TypeConversion Coverage Results" MODIFIED="1565529788351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Exercise__3_.coverage" NAME="2 Exercise (3) Coverage Results" MODIFIED="1566893964848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16 GeneratingRandomValues" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Unpacking.coverage" NAME="2 Unpacking Coverage Results" MODIFIED="1566143720545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 Tuples" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ArithmeticOperations.coverage" NAME="ArithmeticOperations Coverage Results" MODIFIED="1565691042460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_GeneratingRandomValues.coverage" NAME="1 GeneratingRandomValues Coverage Results" MODIFIED="1566893891042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16 GeneratingRandomValues" />
-    <SUITE FILE_PATH="coverage/Hello_World2$Hospital.coverage" NAME="Hospital Coverage Results" MODIFIED="1565684869179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ArithmeticOperations__1_.coverage" NAME="ArithmeticOperations (1) Coverage Results" MODIFIED="1565695286219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Arithmetic Operations" />
-    <SUITE FILE_PATH="coverage/Hello_World2$FormattedStrings.coverage" NAME="FormattedStrings Coverage Results" MODIFIED="1565688574829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$GettingInput.coverage" NAME="GettingInput Coverage Results" MODIFIED="1565527776348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Functions.coverage" NAME="1 Functions Coverage Results" MODIFIED="1566290587327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 Functions" />
-    <SUITE FILE_PATH="coverage/Hello_World2$3_NewChallenge.coverage" NAME="3 NewChallenge Coverage Results" MODIFIED="1566819123434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 Loops/3 Nested Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$5_ExDuplicateRemover.coverage" NAME="5 ExDuplicateRemover Coverage Results" MODIFIED="1566290805391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 Lists" />
-    <SUITE FILE_PATH="coverage/Hello_World2$IfStatements.coverage" NAME="IfStatements Coverage Results" MODIFIED="1565695160614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Guessing_Game.coverage" NAME="2 Guessing Game Coverage Results" MODIFIED="1566028973198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Modules__2_.coverage" NAME="1 Modules (2) Coverage Results" MODIFIED="1566818919834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14 Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_WhileLoops.coverage" NAME="1 WhileLoops Coverage Results" MODIFIED="1566028546553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Exceptions.coverage" NAME="1 Exceptions Coverage Results" MODIFIED="1566723515251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 Exceptions" />
-    <SUITE FILE_PATH="coverage/Hello_World2$StringsExample.coverage" NAME="StringsExample Coverage Results" MODIFIED="1565685097283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$3_KeywordArguments.coverage" NAME="3 KeywordArguments Coverage Results" MODIFIED="1566292002539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 Functions" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Classes.coverage" NAME="1 Classes Coverage Results" MODIFIED="1566813459792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13 Classes" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Comments.coverage" NAME="1 Comments Coverage Results" MODIFIED="1566723521461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12 Comments" />
-    <SUITE FILE_PATH="coverage/Hello_World2$ExampleIfStatements.coverage" NAME="ExampleIfStatements Coverage Results" MODIFIED="1565698383782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Exercise__2_.coverage" NAME="2 Exercise (2) Coverage Results" MODIFIED="1566883110106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14 Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$4_Inheritence.coverage" NAME="4 Inheritence Coverage Results" MODIFIED="1566815494457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13 Classes" />
-    <SUITE FILE_PATH="coverage/Hello_World2$utils.coverage" NAME="utils Coverage Results" MODIFIED="1566884814556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using_Modules" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_ExcelSpreedsheet.coverage" NAME="1 ExcelSpreedsheet Coverage Results" MODIFIED="1567050954726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18 ExcelSpreadsheet" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_FunctionParameters.coverage" NAME="2 FunctionParameters Coverage Results" MODIFIED="1566291288524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 Functions" />
-    <SUITE FILE_PATH="coverage/Hello_World2$variables.coverage" NAME="variables Coverage Results" MODIFIED="1565525557257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$extra.coverage" NAME="extra Coverage Results" MODIFIED="1566290906179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extra" />
-    <SUITE FILE_PATH="coverage/Hello_World2$LogicalOperators.coverage" NAME="LogicalOperators Coverage Results" MODIFIED="1566023304854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_World2$Operator_Precedence.coverage" NAME="Operator Precedence Coverage Results" MODIFIED="1565692431261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Arithmetic Operations" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Dictionary.coverage" NAME="1 Dictionary Coverage Results" MODIFIED="1566144189141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9 Dictionary" />
-    <SUITE FILE_PATH="coverage/Hello_World2$3_2D_lists.coverage" NAME="3 2D lists Coverage Results" MODIFIED="1566290837798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 Lists" />
-    <SUITE FILE_PATH="coverage/Hello_World2$LogicalOperators__1_.coverage" NAME="LogicalOperators (1) Coverage Results" MODIFIED="1566023319429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/If Else &amp; LogicalOperators" />
-    <SUITE FILE_PATH="coverage/Hello_World2$For_loops.coverage" NAME="For loops Coverage Results" MODIFIED="1566055285443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 Loops/2 For Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$shipping.coverage" NAME="shipping Coverage Results" MODIFIED="1566884943716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using_Modules/Ecommerce" />
-    <SUITE FILE_PATH="coverage/Hello_World2$2_Challange.coverage" NAME="2 Challange Coverage Results" MODIFIED="1566057308746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 Loops/3 Nested Loops" />
-    <SUITE FILE_PATH="coverage/Hello_World2$1_Modules__1_.coverage" NAME="1 Modules (1) Coverage Results" MODIFIED="1566816634690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14 Modules/1 Modules" />
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582542895420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582542895420" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1582542956631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582542956631" />
   </component>
 </project>
