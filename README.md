@@ -1,2 +1,2 @@
 # Python_Tutorials
- Python tutorials practices
+ Python tutorials with practices
